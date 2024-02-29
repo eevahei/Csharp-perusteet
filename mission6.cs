@@ -1,7 +1,7 @@
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tehtävä_5._1
+namespace Tehtävä_6
 {
     internal class Kesätyöpalkka
     {
